@@ -10,11 +10,11 @@ collage project
    ``` pip install virtualenv ```
 3. Create virtual env <br/>
    ```virtualenv env1```
-4. Activate virual env1 <br/>
+4. Activate virtual env1 <br/>
    ```cd env1```
    ```cd Scripts```
    ```activate```
-   virutal env activate now and it display as:- <br/>
+   virutal env activate now and it display as:- <br />
    ```(env1) C:\env1\Scripts>```
  
 
