@@ -15,7 +15,7 @@ collage project
 [download](https://nodejs.org/en/download/)
 * laravel  <br/>
    CMD <br/>
-   ```composer require laravel/install ```
+   ```composer require laravel/installer ```
 ## Creating new project in laravel
 * ``` laravel new projectname ``` 
 
