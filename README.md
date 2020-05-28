@@ -1,3 +1,4 @@
+[**Forum for discussion**](https://onlineexamination.createaforum.com/index.php)
 # Online_examination
 collage project
 ## Technology use:
@@ -42,8 +43,9 @@ _create database automatically_
 3. ``` php artisan migrate ```
 
 ## Editing web site ( front end )
-* edit ``` resources/view/layouts/app.blade.php ```
+* edit ``` resources/view/layouts/app.blade.php ``` <br/>
 
+[Feedback](https://forms.gle/12pF2caPSDd8ZLm56)
 
 
 
