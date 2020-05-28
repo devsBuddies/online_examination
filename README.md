@@ -31,7 +31,7 @@ close and rerun <br/>
 * ``` npm install ```
 * ``` npm run development ``` It compile laravel files <br/>
 compiled file : - public/js/app.js <br/>
-file create after compilation :-  : - reqources/js/app.js <br/>
+file create after compilation :-  : - resources/js/app.js <br/>
 
 ## **Migration** command on laravel
 _create database automatically_
