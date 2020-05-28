@@ -18,8 +18,11 @@ collage project
 ## Creating new project in laravel
 * ``` laravel new projectname ``` 
 
+## Edit title 
+1. edit resources/views/welcome.blade.php [screenshot](screenshots/change_title.png)
+
 ## Run project
-* ```php artisan serve ``` must be inside project directory
+* ```php artisan serve ``` must be inside project directory 
 
 ## Create login feature on site
 * ```composer require laravel/ui ``` 
@@ -33,14 +36,14 @@ close and rerun <br/>
 compiled file : - public/js/app.js <br/>
 file create after compilation :-  : - resources/js/app.js <br/>
 
-## **Migration** command on laravel
-_create database automatically_
+## **Migration** command on laravel and create database
+_migrate create database automatically_
 1. create a file </br>
    ```database/database.sqlite``` 
-2. edit .env file
+2. edit .env file [screenshot](screenshots/set_env.png)
 * DB_CONNECTION = sqlite
 * remove other DB_... variables
-3. ``` php artisan migrate ```
+3. ``` php artisan migrate ``` [screenshot](screenshots/migrate.png)
 
 ## Editing web site ( front end )
 * edit ``` resources/view/layouts/app.blade.php ``` <br/>
