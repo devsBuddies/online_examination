@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Test Zone</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -18,6 +18,7 @@
                 font-weight: 200;
                 height: 100vh;
                 margin: 0;
+                background: yellow;
             }
 
             .full-height {
